@@ -84,6 +84,6 @@ pong-game/
 
 Made with ❤️ by Suyash Verma
 
-* GitHub: [@suyashverma](https://github.com/suyashverma)
-* LinkedIn: [@suyashverma](www.linkedin.com/in/suyash-verma-6479b72b6)
+* GitHub: [@suyashverma](https://github.com/suyash-vrm)
+* LinkedIn: [@suyashverma](https://www.linkedin.com/in/suyash-verma-6479b72b6)
 
